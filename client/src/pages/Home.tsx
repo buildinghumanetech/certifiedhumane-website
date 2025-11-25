@@ -6,6 +6,7 @@ import ProductGrid from "@/components/ProductGrid";
 import MissionSection from "@/components/MissionSection";
 import BuiltBy from "@/components/BuiltBy";
 import AboutSection from "@/components/AboutSection";
+import NewsSection from "@/components/NewsSection";
 import CTASection from "@/components/CTASection";
 import { Button } from "@/components/ui/button";
 import { Users, Code } from "lucide-react";
@@ -65,6 +66,7 @@ export default function Home() {
       <AudienceLanes />
       <MissionSection />
       <AboutSection />
+      <NewsSection />
       <CTASection />
       
       <footer className="border-t py-6 mt-8">
