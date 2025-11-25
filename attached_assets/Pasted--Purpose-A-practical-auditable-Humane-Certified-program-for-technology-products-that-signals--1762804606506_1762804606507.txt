@@ -1,0 +1,160 @@
+### Purpose
+
+A practical, auditable "Humane Certified" program for technology products that signals user well‑being, data respect, transparency, and ecosystem impact.
+
+---
+
+### 1) Name and positioning
+
+- Shortlist: Humane Certified • Humane-Ready • Trustworthy Tech Certified • HumaneBench Certified • Certified for Human Benefit
+- Tagline ideas: "Built for people, proven in practice." "Independent, auditable standards for humane tech."
+- Initial scope: software and AI products; expand to hardware later.
+
+---
+
+### 2) Landscape scan (adjacent programs)
+
+- Security/compliance: SOC 2, ISO 27001, FedRAMP
+- Privacy/AI: GDPR, ISO 42001 (AI MS), NIST AI RMF, model cards
+- Accessibility: WCAG 2.2
+- Ethics/safety: OECD AI, Partnership on AI guidance, safety evals
+- Sustainability: device energy, carbon disclosures
+- Gap we fill: a consumer- and buyer-friendly trust mark tying product experience harms + data governance + AI safety into one auditable label.
+
+---
+
+### 3) Criteria v1.0 (auditable and outcome‑oriented)
+
+Each check is labeled Self‑attest / Evidence required / Audit required. “Audit” items are sampled by an independent reviewer.
+
+- Product experience and harms
+    - Harm triage and red‑team logs exist, with mitigations tracked. [Evidence]
+    - In‑product transparency for key limitations and risks. [Audit]
+    - Dark pattern audit across acquisition, consent, and core flows, with remediation. [Evidence]
+    - Incident disclosure policy for user‑impacting events. [Audit]
+- Data governance and privacy
+    - Up‑to‑date data inventory, purpose, retention, and lawful basis published. [Audit]
+    - Quarterly tested user data export/delete workflows with SLA tracking. [Evidence]
+    - Third‑party sharing disclosures, DPAs in place, and data transfer safeguards. [Audit]
+- Model transparency and safety (if AI present)
+    - System or model cards covering training data sources, known risks, and evals. [Evidence]
+    - Safety evals appropriate to modality and domain, with documented mitigations. [Audit]
+    - Abuse monitoring and response path for model misuse. [Evidence]
+- Accessibility and inclusion
+    - WCAG 2.2 AA on core flows or a time‑bound remediation plan with owners. [Evidence]
+    - Representative research or continuous feedback loop for impacted groups. [Self‑attest]
+- Company practices and governance
+    - Responsible tech policy with accountable owners and escalation paths. [Self‑attest]
+    - Annual independent review against this rubric plus corrective action tracking. [Audit]
+
+### Scoring v1.0
+
+- Required controls: must pass all “Audit” and “Evidence” required items.
+- Points: electives worth 1 point each; outcome metrics can earn bonus points.
+- Levels:
+    - Bronze: Required controls + 4 elective points
+    - Silver: Required controls + 8 elective points, no critical findings open
+    - Gold: Required controls + 12 elective points, continuous monitoring in place, time‑to‑remediation P95 ≤ 30 days
+
+### Outcome signals (optional but recommended)
+
+- User‑reported harm rate trends and time‑to‑mitigation
+- DSR SLA performance (export/delete)
+- Accessibility issue backlog burn‑down
+
+### 4) Audit model (Vanta‑style inspiration)
+
+- Artifacts: policies, logs, tickets, eval reports, test evidence
+- Continuous checks: policy freshness, incident response SLAs, DSR SLAs
+- Evidence flow: intake → pre‑checklist → evidence upload → sampling → findings → remediation window → badge issuance
+- Levels:
+    - Recommended Humane: evidence review, no site audit
+    - Certified Humane: independent audit with sampling
+    - Certified Humane Plus: monitoring and annual surveillance audit
+
+---
+
+### 5) Business model and network effects
+
+- Two‑sided: vendors seek certification; buyers and the public use directory and badges
+- Revenue: certification fee, monitoring subscription, directory placements, grants for public‑interest criteria
+- Flywheel: launch signal list → early adopters → buyer trust → more vendors → stronger standard
+
+---
+
+### 6) MVP: Recommended Humane Product List
+
+Seed candidates to evaluate against v0.1 criteria:
+
+- Daylight Computer (focus‑first laptop)
+- Freedom (distraction blocker)
+- Calmly Writer (minimal writing)
+- Scrivener (long‑form writing)
+
+For each: product page, contact, evidence links, quick verdict.
+
+### Evidence request pack (v1.0 draft)
+
+Provide these artifacts or demos. Sample 3–5 items per category if voluminous.
+
+- Product experience and harms
+    - Red‑team logs and mitigation tickets for last 2 quarters
+    - Dark pattern audit report and remediation diffs
+    - Incident disclosure policy and last 2 user‑impacting postmortems
+- Data governance and privacy
+    - Data inventory and retention schedule
+    - DSR export/delete test evidence with timestamps and SLA metrics
+    - List of subprocessors, DPAs, transfer safeguards
+- AI transparency and safety
+    - System or model cards, eval reports, jailbreak/abuse test results
+    - Abuse monitoring runbook and alert samples
+- Accessibility and inclusion
+    - WCAG 2.2 AA audit or plan, defect list and owners
+    - Evidence of representative research or feedback loop
+- Governance
+    - Responsible tech policy, owners, escalation paths
+    - Annual independent review report and corrective actions
+
+### Badge usage and revocation policy (v1.0 draft)
+
+- Usage
+    - Badge levels: Recommended Humane, Certified Humane, Certified Humane Plus
+    - Placement: product site footer, pricing page, app listing, press kit
+    - Link behavior: must link to public certificate page with scope and expiry
+- Claims
+    - No implication of government or safety certification
+    - No modification of badge design
+- Surveillance and renewal
+    - Annual surveillance review for Certified and Plus
+    - Immediate disclosure of material scope changes within 30 days
+- Revocation
+    - Triggers: critical finding not remediated in 30 days, misrepresentation, scope violation
+    - Process: notice → remediation window → public revocation notice
+    - Reinstatement: re‑audit of failed controls
+
+### Pilot partners: short list to invite
+
+- Daylight Computer — focus‑first laptop for reduced distraction
+- Freedom — distraction blocker
+- Calmly Writer — minimal writing tool
+- Scrivener — long‑form writing
+- Optional stretch: browser or email client with strong privacy posture
+
+---
+
+### 7) Next steps
+
+- Finalize v0.1 rubric and scoring
+- Draft public explainer, badge usage guidelines, and revocation policy
+- Build evaluation worksheet and evidence request pack
+- Outreach to 3–5 seed partners for pilot
+
+---
+
+### Appendix
+
+- References and adjacent standards catalog
+- Template: evidence request list
+- Template: audit findings and remediation tracker
+
+[Evidence Request Pack Template](https://www.notion.so/Evidence-Request-Pack-Template-badd11ff25be468faecf77122fab82a0?pvs=21)

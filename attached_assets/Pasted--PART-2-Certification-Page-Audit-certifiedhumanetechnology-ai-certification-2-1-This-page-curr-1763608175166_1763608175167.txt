@@ -1,0 +1,244 @@
+📍 PART 2 — Certification Page Audit (certifiedhumanetechnology.ai/certification)
+2.1 This page currently feels “live”
+
+This is the biggest mismatch with your current reality.
+
+Add a banner at the top:
+
+Prototype Notice:
+This certification is in active development. We are currently accepting expressions of interest—not certifying systems yet.
+
+This protects you from misinterpretation and gives psychological safety.
+
+2.2 Make the certification process conceptual, not literal
+
+Instead of a fully formed program outline, present:
+
+The vision
+
+The draft principles
+
+The prototype evaluation process (HumaneBench)
+
+How this will develop
+
+What early participants will experience
+
+This way, no one mistakes it for a live product.
+
+2.3 Add the eight principles clearly
+
+You mention them on the homepage but do not list them on the cert page.
+
+This is a missed chance.
+
+Add a section:
+
+The Eight Principles of Humane Technology
+
+Respect User Attention
+
+Enhance Agency
+
+Protect Dignity & Safety
+
+Foster Healthy Relationships
+
+Support Long-Term Wellbeing
+
+Enable Meaningful Choices
+
+Be Transparent & Honest
+
+Design for Equity & Inclusion
+
+1–2 line explanations each.
+
+This anchors the legitimacy of the certification.
+
+2.4 Explain HumaneBench
+
+This is your biggest differentiator.
+
+Add a section:
+
+Powered by HumaneBench v1 (Prototype)
+Explain—at a high level:
+
+How the benchmark works
+
+That it uses human evaluation + model evaluation
+
+That it aligns with psychology, ethics, wellbeing research
+
+That you will publish transparent scoring
+
+This positions you ahead of any competitor.
+
+2.5 Conversion Path
+
+Add:
+
+Interested in participating?
+
+Two buttons:
+
+“I want my AI system evaluated”
+
+“I want to follow certified humane AI systems as a user”
+
+Both → interest form.
+
+📍 PART 3 — Marketplace Positioning (Critical)
+
+You need to speak to two sides and avoid confusing them.
+
+3.1 For Users
+
+Create a dedicated section on the homepage:
+
+“For People Who Use AI”
+
+Most AI systems optimize for engagement—not wellbeing
+
+Our certification helps you identify which systems are genuinely humane
+
+Get early alerts and the first look at pilot certifications
+
+Join the movement shaping the future of humane tech
+
+CTA: Get early access to the humane AI directory →
+
+3.2 For Businesses
+
+Create a dedicated section:
+
+“For AI Companies & Product Teams”
+
+Stand out with early adoption of humane design
+
+Build trust with users, regulators, and investors
+
+Identify and fix attention harms and unsafe patterns
+
+Pilot the first humane AI evaluation standard powered by HumanBench
+
+CTA: Apply for early access →
+
+📍 PART 4 — Connect to Your Broader Mission (Essential)
+Add a section titled:
+Part of a Global Movement for Humane Technology
+
+Explain, in brief:
+
+Building Humane Tech (PBC)
+
+Open-source frameworks (GitHub)
+
+Events, hackathons, workshops
+
+Collaboration with researchers at MIT, Amazon, UN, etc.
+
+Your community of thousands
+
+This gives the certification weight, momentum, and context.
+
+Link to:
+
+Your GitHub repos
+
+Your Substack
+
+Your humane principles
+
+The System Prompt Library
+
+HumaneBench.ai
+
+It will all reinforce credibility.
+
+📍 PART 5 — Visual, UX, and Design Improvements
+5.1 Use your jewel-tone aesthetic
+
+Your brand is strong and distinct.
+The site currently feels a bit muted/flat.
+
+Suggest:
+
+Jewel-tone accent colors
+
+Slight gradients
+
+More white space
+
+Add simple icons beside each principle
+
+Add imagery showing humans + technology interactions
+
+Add sample certification badge
+
+5.2 Mobile-first improvements
+
+Ensure:
+
+Legible text
+
+Sticky CTA
+
+Shortened headings
+
+Simplified footer
+
+5.3 Add storytelling
+
+Consider a simple “why this matters” graphic:
+
+The Problem
+AI optimizes for engagement → harms attention, wellbeing, dignity.
+
+The Solution
+A transparent, humane standard grounded in science.
+
+Your Role
+Sign up to shape the standard.
+
+📍 PART 6 — Copywriting Tone
+
+Adopt a tone that is:
+
+Visionary
+
+Transparent
+
+Collaborative
+
+Empathetic
+
+Urgent
+
+Credible
+
+Something like:
+
+We’re building the world’s first standard for humane AI—and we want you to help shape it.
+
+📍 PART 7 — The Most Important Fix (Summary)
+Your site should have one core job:
+
+👉 Collect interest from users and AI builders by making this feel like a credible movement they want to be early to.
+
+To accomplish that:
+
+Clarify audiences
+
+Add credibility
+
+Add prototype framing
+
+Add clearer CTAs
+
+Explain HumaneBench
+
+Use powerful, movement-level messaging
+
+Match your jewel-tone visual brand

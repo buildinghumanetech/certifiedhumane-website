@@ -1,0 +1,132 @@
+📍 PART 1 — Homepage Audit (certifiedhumanetechnology.ai)
+1.0 Positioning & Narrative
+Current issue:
+
+Messaging assumes certification is already live.
+
+It is not yet clear that this is a prototype, or that you want interest, signups, and co-creators.
+
+Doesn't explain your broader initiative (BHT, HumaneBench, movement).
+
+Recommended fix:
+
+Add a sub-headline near the top:
+
+A prototype standard for measuring whether AI systems support human flourishing.
+Join the early access community shaping Version 1.
+
+Also add a clear choice:
+
+Are you a user?
+Are you a builder?
+
+This sets up your marketplace and helps you segment leads for later.
+
+1.1 Audience Clarity
+
+Right now, people don’t know:
+
+Who the site is for
+
+What they should do next
+
+Add two audience lanes:
+FOR INDIVIDUAL USERS
+
+“Want to know which AI systems are actually humane?”
+
+“Get early access to our directory and help shape the first humane-tech standard.”
+
+FOR BUSINESSES / BUILDERS
+
+“Want your AI product evaluated?”
+
+“Join the early pilot group for HumaneBench-powered certification.”
+
+Add clear CTAs for each.
+
+1.2 Credibility & Trust (Very Important)
+
+A standard or certification must feel legitimate even in prototype form.
+
+Add social proof from your ecosystem:
+
+MIT AHA Lab
+
+Amazon AGI Lab collaboration
+
+UN Secretariat training
+
+Center for Humane Technology alignment
+
+The growing Humane Tech Movement (your events, hackathons)
+
+Even subtle citations lift trust dramatically.
+
+Add "Built by" section
+
+Built by the Building Humane Tech initiative
+with a short blurb and your flame logo.
+
+1.3 Core Message Hierarchy
+Suggested hero section rewrite:
+
+Title:
+The First Humane AI Certification (Prototype)
+
+Subtitle:
+A developing standard that evaluates whether AI systems uphold eight principles of humane technology — dignity, safety, attention, agency, and more.
+Now inviting early participants.
+
+Two buttons:
+
+I use AI systems — keep me informed
+
+I build AI systems — join early access
+
+1.4 Value Proposition
+
+Right now: value is assumed, not articulated.
+
+Add clear benefits:
+
+For users
+
+Know which AI systems are safe, supportive, and non-manipulative
+
+Get transparency you can’t get anywhere else
+
+Help shape the future of humane tech
+
+For businesses
+
+Benchmark your product against humane-tech standards
+
+Identify safety and ethical blind spots
+
+Stand out with early adoption
+
+Earn trust with a transparent, principle-based evaluation
+
+1.5 CTAs & Conversion Funnel
+
+You currently have no clear conversion flow.
+
+Add a simple funnel:
+
+Learn what this is
+
+Decide which side you’re on
+
+Sign up for interest
+
+Primary CTA should be:
+“Join the Early Access List”
+
+You can also add:
+
+“Download the principles”
+
+“See the evaluation rubric (prototype)”
+
+These give substance while keeping the site prototype-friendly.
