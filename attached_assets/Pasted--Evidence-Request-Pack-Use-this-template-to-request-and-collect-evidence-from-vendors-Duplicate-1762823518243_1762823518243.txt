@@ -1,0 +1,105 @@
+### Evidence Request Pack
+
+Use this template to request and collect evidence from vendors. Duplicate per product and replace placeholders.
+
+<aside>
+📌
+
+Include scope, product name, version, and time period covered.
+
+</aside>
+
+---
+
+### 1) Scope
+
+- Product:
+- Version / Release window:
+- Contact(s):
+- Review period:
+- Certification level sought: Recommended Humane / Certified Humane / Certified Humane Plus
+
+### 2) Product Experience and Harms
+
+- [ ]  Red‑team logs for last 2 quarters
+    - Links or files:
+    - Summary of top risks and mitigations:
+- [ ]  Harm triage tickets and mitigation evidence
+    - Links or files:
+- [ ]  Dark pattern audit report (acquisition, consent, core flows)
+    - Links or files:
+    - Remediation diffs or screenshots:
+- [ ]  Incident disclosure policy
+    - Link:
+- [ ]  Last 2 user‑impacting incident postmortems
+    - Links:
+
+### 3) Data Governance and Privacy
+
+- [ ]  Data inventory and retention schedule
+    - Link or file:
+- [ ]  DSR export/delete test evidence (timestamps, SLA metrics)
+    - Export test date, duration:
+    - Delete test date, duration:
+- [ ]  Subprocessors list, DPAs, transfer safeguards
+    - Links or files:
+
+### 4) AI Transparency and Safety (if applicable)
+
+- [ ]  System/model cards with known risks and evals
+    - Link or file:
+- [ ]  Safety evals (jailbreak, toxicity, modality‑specific)
+    - Links or files:
+- [ ]  Abuse monitoring runbook and alert samples
+    - Link or file:
+
+### 5) Accessibility and Inclusion
+
+- [ ]  WCAG 2.2 AA audit or remediation plan
+    - Link or file:
+- [ ]  Defect list with owners and target dates
+    - Link or file:
+- [ ]  Evidence of representative research/feedback loop
+    - Notes:
+
+### 6) Governance
+
+- [ ]  Responsible tech policy with owners and escalation paths
+    - Link or file:
+- [ ]  Annual independent review report + corrective actions
+    - Link or file:
+
+---
+
+### Outcome Signals (optional but recommended)
+
+- User‑reported harm rate trend:
+- Time‑to‑mitigation P95:
+- DSR SLA performance (export/delete):
+- Accessibility backlog burn‑down:
+
+---
+
+### Reviewer Worksheet
+
+- Required controls status: Pass / Conditional / Fail
+- Elective points earned:
+- Critical findings (if any):
+- Remediation plan and deadlines:
+- Provisional decision: Bronze / Silver / Gold
+
+---
+
+### Submission Checklist
+
+- [ ]  All required artifacts attached
+- [ ]  Sensitive data redacted where necessary
+- [ ]  Contacts available for clarifications
+- [ ]  Attestations signed (if required)
+
+<aside>
+🔗
+
+To use as a Google Doc: Export this page as Markdown or copy the sections into a new Doc. Keep links to source artifacts intact.
+
+</aside>
